@@ -7,6 +7,6 @@ Sample website I designed for North Haven Barber Shop, a barber shop in Calgary,
 
 ## View the site
 
-Open `index.html` in a browser, or enable GitHub Pages on this repository to serve it live.
+The site is live at https://franklin0000.github.io/north-haven-barber-shop/
 
 Designed by Franklin Familia.
